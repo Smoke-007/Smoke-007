@@ -17,9 +17,7 @@
 
 
 
-<a href="https://github.com/Smoke-007">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smoke-007&theme=dark&hide_langs_below=1" />
-</a>
+
 <a href="https://github.com/Smoke-007">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Smoke-007&show_icons=true&theme=dark&line_height=30" alt="Ｈｉｔｓｕｋａ's github stats"/>
 </a>
