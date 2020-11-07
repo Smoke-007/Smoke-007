@@ -13,6 +13,10 @@
 [![telegram badge](https://img.shields.io/badge/Smoke-007-30302f?style=flat&logo=telegram)](https://t.me/I_m_smoke)
 
 
+<p align="center">
+<img src="https://telegra.ph/file/8924e766ff2191b824adf.jpg" alt="Smoke-007">
+
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Smoke-007/)
 
 
